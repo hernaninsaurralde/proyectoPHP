@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Roboto&display=swap');
+
+:root {
+    --main-bg-color: #0E0F26;
+    --font-color: #FFFCFF;
+    --secondary-color: #302399;
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+} 
+
+body {
+    background-color: var(--main-bg-color);
+}
+
+ul {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Audiowide', cursive;
+    color: var(--font-color);
+
+}
+
+
+ul a:visited, a:link {
+    color: var(--font-color)
+
+}
+
+li {
+    padding: 20px
+}
+
+li:hover {
+    background: #302399;
+    transition: all 0.5s ease-out;
+}
+
+li:active{
+    background: #992385;
+}
+
+
+.logo {
+    padding: 20px;
+    height: 100%;
+    background-color: var(--secondary-color);
+    color: var(--font-color);
+    font-family: 'Audiowide', cursive;
+
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    border-bottom: 1px solid #9e619e;
+}
+
+.ctnr_contacto {
+    margin: 70px;
+    width: 70%;
+    font-family: monospace;
+}
+
+.ctnr_contacto h2{
+    color: var(--font-color);
+}
+.contacto_input { 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    height: 30px;
+    width: 500px;
+}
+
+.contacto_btn {
+    padding: 8px;
+    font-family: monospace;
+    font-weight: 500;
+    background-color: var(--secondary-color);
+    border-radius: 2px;
+    color: var(--font-color);
+}
+
+textarea{
+    margin-top: 10px;
+    padding: 10px;
+    width: 500px;
+    height: 200px;
+}
+
+.galeria {
+    color: var(--font-color);
+    font-family: monospace;
+    padding: 30px 70px;
+}
+
+.galeria > p {
+    font-size: 18px;
+}
+
+.galeria > * {
+    margin-top: 30px;
+}
+
+.galeria > img {
+    width: 500px;
+    margin-left: 30%;
+}
+
+.nuestrosprod{
+    color: var(--font-color);
+    padding: 70px;
+    font-family: monospace;
+}
+
+.imgnos{
+    width: 500px;
+    margin-right: 10px;
+}
+
+.contnos{
+    display: flex;
+}
+
+label {
+    color: rgba(255, 255, 255, 0.863);
+    font-size: 16px;
+}
