@@ -9,6 +9,10 @@
 
 - En la seccion Contacto se envia un mail a una cuenta de Mailtrap por medio de un Mailable. En el mensaje se enviara Nombre, Apellido, Correo y el Mensaje, todos los campos son requeridos.
 
+# Video 
+
+https://www.awesomescreenshot.com/video/12012287?key=0cf26518cb5b1de9b7e9e0e2dc9d909d
+
 # Repositorio
 
 https://thawing-shore-85846.herokuapp.com/
