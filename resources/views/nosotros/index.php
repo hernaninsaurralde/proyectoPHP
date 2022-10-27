@@ -17,7 +17,7 @@
         <h2>Acerca de nosotros</h2> <br>
 
         <div class="contnos">
-            <img class="imgnos" src="https://thump-images.vice.com/images/2017/01/24/the-9-best-synth-shops-in-the-us-body-image-1485278959.jpeg" alt="">
+            <img class="imgnos" src="images/nosotros.jpeg" alt="">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro rem fugiat ut maxime alias hic placeat consequatur nihil adipisci quo exercitationem unde laborum quos cumque labore quidem, quasi at. Facere.
             <br>  <br>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum quo esse distinctio quis voluptatibus ipsa eum repellendus, beatae tenetur vitae molestiae reprehenderit, cum consequuntur. Magnam quae expedita odio laboriosam molestias?
